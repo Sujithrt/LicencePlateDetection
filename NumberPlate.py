@@ -47,4 +47,4 @@ def extract_num(image_name):
     cv2.waitKey()
     cv2.destroyAllWindows()
 
-extract_num('Car Images/Cars60.png')
+extract_num('Car Images/Cars8.png')
